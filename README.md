@@ -4,6 +4,26 @@ Built on top of [MemoryOS](https://github.com/CommonCapital/MemoryOS.git)
 
 A B2B SaaS platform that transforms institutional knowledge into a secure, interactive AI consultant. Designed for startups and venture-backed companies to serve their "data room" to investors, enabling cited, grounded answers to any due diligence question.
 
+---
+
+### **What is Business AI Data Room?**
+An intelligent "Data Room" for startups that transforms all internal company documentation (decks, financial models, legal docs) into a secure, interactive AI consultant.
+
+### **Who is it for?**
+*   **Startups:** Looking to streamline their fundraising process.
+*   **Venture Capitalists (VCs):** Conducting Due Diligence on potential investments.
+
+### **The Problem It Solves**
+Due Diligence is traditionally a slow and chaotic process. Investors have to manually sift through hundreds of files, and founders spend significant time answering the same follow-up questions repeatedly. Information is often scattered, making it difficult to find specific data points quickly.
+
+### **Value & Purpose**
+1.  **Instant Answers for VCs:** Instead of reading a 50-page report, an investor can simply ask a question (e.g., "What is the EU market entry strategy?") and get an immediate answer.
+2.  **Grounded Truth (Citations):** Every answer is backed by inline citations pointing to specific documents and pages, ensuring the AI's claims are verifiable and trustworthy.
+3.  **Accelerated Deal Flow:** Reduces the time to understand a business from weeks to hours, speeding up the path to investment.
+4.  **Security & Control:** Founders can generate time-limited, read-only access links, track query history, and maintain strict data isolation between different investment parties.
+
+---
+
 ## 🚀 Key Features
 
 ### 1. Multi-Tenant Infrastructure
